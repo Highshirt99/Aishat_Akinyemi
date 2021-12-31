@@ -99,7 +99,7 @@ section form{margin-top: 18px;
 } 
 
 #Showcase{
-background: url("../img/Busy.jpg") no-repeat;
+background: url("Busy.jpg") no-repeat;
 background-size: cover;
 background-position: center; 
 min-height: 400px;
